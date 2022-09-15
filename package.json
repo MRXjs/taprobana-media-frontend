@@ -1,8 +1,8 @@
 {
-  "homepage": "https://MRXjs.github.io/taprobana-media-frontend",
   "name": "starter",
+  "homepage": "https://MRXjs.github.io/taprobana-media-frontend",
   "version": "0.1.0",
-  "private": true,
+  "private": false,
   "proxy": "https://sures.ytdonline.com",
   "dependencies": {
     "@iconscout/react-unicons": "^1.1.6",

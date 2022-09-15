@@ -7,7 +7,7 @@ import { BrowserRouter, Routes, Route } from "react-router-dom";
 
 ReactDOM.render(
   <Provider store={store}>
-    <BrowserRouter>
+    <BrowserRouter basename="/taprobana-media-frontend">
       <Routes>
         <Route path="*" element={<App />} />
       </Routes>
