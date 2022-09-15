@@ -16,7 +16,6 @@ function App() {
 
       <Routes>
         <Route
-          exact
           path="/"
           element={user ? <Navigate to="home" /> : <Navigate to="auth" />}
         />
