@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/taprobana-media-frontend/static/css/main.47071513.css",
-    "main.js": "/taprobana-media-frontend/static/js/main.3e9339b4.js",
+    "main.js": "/taprobana-media-frontend/static/js/main.414d2622.js",
     "static/media/logo.gif": "/taprobana-media-frontend/static/media/logo.2f51de728184027a64c6.gif",
     "index.html": "/taprobana-media-frontend/index.html",
     "main.47071513.css.map": "/taprobana-media-frontend/static/css/main.47071513.css.map",
-    "main.3e9339b4.js.map": "/taprobana-media-frontend/static/js/main.3e9339b4.js.map"
+    "main.414d2622.js.map": "/taprobana-media-frontend/static/js/main.414d2622.js.map"
   },
   "entrypoints": [
     "static/css/main.47071513.css",
-    "static/js/main.3e9339b4.js"
+    "static/js/main.414d2622.js"
   ]
 }
