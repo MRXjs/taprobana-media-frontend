@@ -1,0 +1,11 @@
+.Copyrigh {
+  width: 50%;
+}
+
+div > spam {
+  cursor: pointer;
+}
+
+div > spam:hover {
+  background: aqua;
+}

@@ -1,0 +1,34 @@
+.Post {
+  display: flex;
+  flex-direction: column;
+  padding: 1rem;
+  background-color: var(--cardColor);
+  border-radius: 1rem;
+  gap: 1rem;
+}
+
+.Post > img {
+  /* width: 60%; */
+  border-radius: 0.5r em;
+  object-fit: contain;
+  height: 400px;
+}
+
+.postReact {
+  display: flex;
+  align-items: flex-start;
+  gap: 1.5rem;
+}
+
+.detail {
+  display: flex;
+  align-items: center;
+}
+
+.detail > span:nth-child(1) {
+  margin: 0.3rem;
+}
+
+.detail > span:nth-child(3) {
+  margin: 1rem;
+}
