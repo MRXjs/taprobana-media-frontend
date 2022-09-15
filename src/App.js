@@ -16,6 +16,7 @@ function App() {
 
       <Routes>
         <Route
+          exact
           path="/taprobana-media-frontend"
           element={user ? <Navigate to="home" /> : <Navigate to="auth" />}
         />
